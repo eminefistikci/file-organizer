@@ -21,16 +21,16 @@ A simple Python command-line application that organizes files in a selected dire
 - Programming Languages: `.py`, `.js`, `.java`, `.cs`, `.cpp`, `.html`, `.css`
 - Others: other file types
 
-### How to Run
+## How to Run
 
-```bash
-python main.py
+Run the program with:
+
+    python main.py
 
 Then enter the path of the directory you want to organize.
 
-```markdown
-### Technologies
+## Technologies
 
 - Python
-- pathlib
-- shutil
+- `pathlib`
+- `shutil`
